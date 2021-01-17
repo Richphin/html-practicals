@@ -1,0 +1,19 @@
+body{
+	background-image: url(cool.jpg);
+	background-position: top;
+}
+.shoes{color: blue;
+		border-bottom-style: solid;
+		border-color: black;
+		border-width: 5px;
+
+}
+#brand{ color: black; }
+.cars{color: blue;
+	border-bottom-style: solid;
+	border-color: black;
+	border-width: 5px;
+
+
+}
+#models{color: black}
